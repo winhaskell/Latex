@@ -1,0 +1,12 @@
+\documentclass{article}
+\usepackage{CJKutf8}
+\begin{document}
+\begin{CJK}{UTF8}{gbsn}
+这是一个CJKutf8的例子
+\end{CJK}
+\end{document}
+
+
+
+
+
