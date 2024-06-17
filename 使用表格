@@ -1,0 +1,21 @@
+\documentclass{article}
+\usepackage{amsmath}
+
+\begin{document}
+
+\begin{table}[h!]
+  \centering
+  \begin{tabular}{|c|c|c|}
+    \hline
+    列1 & 列2 & 列3 \\ 
+    \hline
+    数据1 & 数据2 & 数据3 \\
+    数据4 & 数据5 & 数据6 \\
+    数据7 & 数据8 & 数据9 \\
+    \hline
+  \end{tabular}
+  \caption{一个简单的表格}
+  \label{tab:simple_table}
+\end{table}
+
+\end{document}
