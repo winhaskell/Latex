@@ -1,0 +1,11 @@
+LaTeX instructions
+https://www.elsevier.com/researcher/author/policies-and-guidelines/latex-instructions
+
+Download the journal article template packageopens in new tab/window
+
+The Elsevier article class
+The Elsevier article class helps you to format the frontmatter of your manuscript properly. It is part of the elsarticle package. This package is contained in most TeX distributions and is available in the template. The   elsarticle documentationopens in new tab/window and some common templates and bibliographic styles are part of this package as well.
+
+Two additional class files and templates are available for single and double column. These can be downloaded from 
+hereopens in new tab/window
+. 
